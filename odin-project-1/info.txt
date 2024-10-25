@@ -1,8 +1,0 @@
-this is the Roboto font link.use this link and 
-get the embeded link for html(head)  and css.
-https://fonts.google.com/share?selection.family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900
- 
-
- use this for random image generator from unsplash.
- https://source.unsplash.com/random/width/?subject?no
- change width, subject, no with your project requirements.
