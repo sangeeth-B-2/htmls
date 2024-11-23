@@ -1,0 +1,33 @@
+body {
+    box-sizing: border-box;
+}
+
+.bigHead {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20x;
+    font-weight: 750;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    border: solid 5px #7beb0b;
+    background-color: #80ff01;
+}
+
+h2,
+h3 {
+    font-family: 'monaco', monospace;
+    text-align: center;
+    border: solid 5px #27b472;
+    padding: 5px 0 5px 0;
+    background-color: #55a780;
+
+}
+
+ a {
+    display: flex;
+    justify-content: center;
+    margin: 10px 70px 10px 70px;
+    text-decoration: none;
+    color: rgb(33, 71, 71);
+    
+}
